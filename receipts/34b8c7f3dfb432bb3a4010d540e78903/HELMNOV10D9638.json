@@ -1,0 +1,1 @@
+{"id":"HELMNOV10D9638","device_id":"34b8c7f3dfb432bb3a4010d540e78903","type":"model_prompt","result":"blocked","summary":"Detailed model_spec invalid: model_spec.parts must be an array.. For a simpler fresh Blender model, use type=model_create with a descriptive prompt, NOT model_test or open_viewport.","finished_utc":"2026-11-10T05:41:36.0221123Z"}
